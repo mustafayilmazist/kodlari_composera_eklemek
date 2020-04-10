@@ -1,0 +1,20 @@
+{
+    "name": "mustafayilmazist/kodlari_composera_eklemek",
+    "type": "project",
+    "description": "Token Üretici",
+    "keywords": ["token", "üretici", "token üretici"],
+    "homepage": "https://github.com/mustafayilmazist/kodlari_composera_eklemek",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mustafa Yılmaz",
+            "email": "mustafa@yazilimekip.com",
+            "homepage": "http://yazilimekip.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "mustafayilmazist/kodlari_composera_eklemek": "1.0"
+    }
+}
