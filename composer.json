@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "mustafayilmazist/kodlari_composera_eklemek": "dev-master@dev"
+        "mustafayilmazist/kodlari_composera_eklemek": "~1.0"
     }
 }
 
